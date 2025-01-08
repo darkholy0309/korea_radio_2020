@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0,KBS 1라디오
+http://serpent0.duckdns.org:8088/kbs1radio.pls
+#EXTINF:0,KBS 해피 FM
+http://serpent0.duckdns.org:8088/kbs2radio.pls
+#EXTINF:0,KBS 클래식 FM
+http://serpent0.duckdns.org:8088/kbsfm.pls
+#EXTINF:0,KBS 쿨 FM
+http://serpent0.duckdns.org:8088/kbs2fm.pls
+#EXTINF:0,MBC 표준 FM
+http://serpent0.duckdns.org:8088/mbcsfm.pls
+#EXTINF:0,MBC FM4U
+http://serpent0.duckdns.org:8088/mbcfm.pls
+#EXTINF:0,SBS 파워 FM
+http://serpent0.duckdns.org:8088/sbsfm.pls
+#EXTINF:0,SBS 러브 FM
+http://serpent0.duckdns.org:8088/sbs2fm.pls
+#EXTINF:0,KMStudio
+http://c9.inlive.co.kr:1652
+#EXTINF:0,KFM경기방송
+http://radio.kfm.co.kr:8000
+#EXTINF:0,TBS FM 교통방송
+http://tbs.hscdn.com/tbsradio/fm/playlist.m3u8
+#EXTINF:0,TBS eFM
+http://tbs.hscdn.com/tbsradio/efm/playlist.m3u8
+#EXTINF:0,CBS 표준FM
+http://aac.cbs.co.kr/cbs981/cbs981.stream/playlist.m3u8
+#EXTINF:0,CBS 음악FM
+http://aac.cbs.co.kr/cbs939/cbs939.stream/playlist.m3u8
+#EXTINF:0,CBS JOY4U
+http://aac.cbs.co.kr/cbscmc/cbscmc_96k.stream/playlist.m3u8
+#EXTINF:0,EBS FM
+http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
+#EXTINF:0,EBS 외국어1
+http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8
+#EXTINF:0,EBS 외국어2
+http://bandibook.ebs.co.kr/bandibook/live_m4a/playlist.m3u8
+#EXTINF:0,EBS 책읽어주는 라디오
+http://fmbook.ebs.co.kr/fmbook/live_m4a/playlist.m3u8
+#EXTINF:0,Arirang 제주 FM
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+#EXTINF:0,GFM 관악 FM
+http://onair.radiogfm.net:8003
+#EXTINF:0,GFN 광주 외국인
+http://218.157.19.198:8000
+#EXTINF:0,TBN 대전
+http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8
+#EXTINF:0,분당 FM 90.7
+http://plive.podbbang.com/snfm.mp3
+#EXTINF:0,WBS 원음방송(대구)
+http://49.247.3.32:8000/wbs-d
+#EXTINF:0,국악방송 FM
+http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
